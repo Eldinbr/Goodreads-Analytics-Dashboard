@@ -22,7 +22,7 @@ Tableau Dashboard Link : [https://public.tableau.com/app/profile/eldin.b.joseph/
 
 - **Motivation:** Finding a clean and structured dataset for books with meaningful metrics such as ratings, reviews, publication details, and author information is often difficult. This project was created to visualize Goodreads book data interactively and provide readers, analysts, and bibliophiles with insights into publishing trends, reader preferences, and book popularity.
 - **Objective:** The main objective of this dashboard is to analyze Goodreads book data including publication trends, language distribution, ratings, publishers, and author statistics to support data-driven insights into reader behavior and literary trends.
-- **Learning Outcomes:** WWhile building this project, I learned:
+- **Learning Outcomes:** While building this project, I learned:
 Tableau dashboard design and storytelling,
 Data cleaning and preprocessing,
 Creating interactive visualizations,
