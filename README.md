@@ -1,4 +1,4 @@
-Project Title: **Goodreads-Analytics-Dashboard-Tableau**
+Project Title: **Goodreads-Analytics-Dashboard**
 
 An interactive Goodreads Analytics Dashboard built in Tableau Public. This project analyzes book metadata, publication trends, language distribution, publishers, authors, ratings, and review statistics to uncover insights into global reading patterns and popular literature trends. The dashboard highlights key metrics such as average ratings, publication growth over time, most popular books, dominant publishers, and top language codes.
 
@@ -88,10 +88,10 @@ To explore this project locally:
 ```bash
 
 # Clone the repository
-git clone https://github.com/eldinbr/Goodreads-Analytics-Dashboard-Tableau.git
+git clone https://github.com/eldinbr/Goodreads-Analytics-Dashboard.git
 
 # Navigate into the project directory
-cd Goodreads-Analytics-Dashboard-Tableau
+cd Goodreads-Analytics-Dashboard
 
 
 
