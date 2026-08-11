@@ -2,6 +2,10 @@ Project Title: **Goodreads-Analytics-Dashboard**
 
 An interactive Goodreads Analytics Dashboard built in Tableau Public. This project analyzes book metadata, publication trends, language distribution, publishers, authors, ratings, and review statistics to uncover insights into global reading patterns and popular literature trends. The dashboard highlights key metrics such as average ratings, publication growth over time, most popular books, dominant publishers, and top language codes.
 
+Preview
+
+<img width="1384" height="805" alt="Screenshot 2026-05-07 at 6 08 04 PM" src="https://github.com/user-attachments/assets/c588165b-6e3e-45d8-8d43-d2dfed51cc58" />
+
 Tableau Dashboard Link : [https://public.tableau.com/app/profile/eldin.b.joseph/viz/HRAnalyticsDashboard_17238387531440/HRAnalyticsDashboard](https://public.tableau.com/views/goodreadsDashboard_17240674209860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Table of Contents
@@ -149,9 +153,7 @@ Business Value
 - Support recommendation system exploration
 - Analyze publisher dominance and reader engagement metrics
 
-Preview
 
-<img width="1384" height="805" alt="Screenshot 2026-05-07 at 6 08 04 PM" src="https://github.com/user-attachments/assets/c588165b-6e3e-45d8-8d43-d2dfed51cc58" />
 
 
 
